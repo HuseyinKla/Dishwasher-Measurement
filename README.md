@@ -4,3 +4,4 @@ This application finds out how much water your dishwasher will consume on averag
 
 ## Getting Started
 
+Java and Java Form were used in this application.
